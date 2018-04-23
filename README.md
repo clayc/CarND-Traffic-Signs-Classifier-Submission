@@ -2,6 +2,7 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 [Submitted Code](https://github.com/clayc/CarND-Traffic-Signs-Classifier-Submission/blob/master/Traffic_Sign_Classifier-completed.html)
+
 [Submitted Project Writeup](https://github.com/clayc/CarND-Traffic-Signs-Classifier-Submission/blob/master/Writeup.md)
 
 
